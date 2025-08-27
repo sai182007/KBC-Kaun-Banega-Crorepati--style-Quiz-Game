@@ -28,3 +28,5 @@ If they answer wrong, the game ends, and they take home their earnings so far.
 ---
 
 ## 📂 Project Structure
+main_24-27.py
+README.md
